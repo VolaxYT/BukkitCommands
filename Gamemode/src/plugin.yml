@@ -1,0 +1,9 @@
+name: GamemodeCommand
+version: 1.0.01
+author: Volax
+description: Commande de Gamemode
+main: fr.volax.commands.GamemodeMain
+website: https://dev.volax.fr
+commands:
+  gm:
+    description: Commande de Gamemode
