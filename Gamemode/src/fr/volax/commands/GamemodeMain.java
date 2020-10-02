@@ -5,6 +5,6 @@ import org.bukkit.plugin.java.JavaPlugin;
 public class GamemodeMain extends JavaPlugin {
     @Override
     public void onEnable() {
-        getCommand("gm").setExecutor(new GamemodeCommand());
+        this.getCommand("gm").setExecutor(new GamemodeCommand());
     }
 }
