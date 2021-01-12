@@ -7,5 +7,9 @@ Ce github est un regroupement du code de mes vidéos disponible à cette adresse
 - Heal/Feed: **Pas encore sorti**
 - Register/Login: **Pas encore sorti**
 - RandomTP: **Pas encore sorti**
+- Fly: **Pas encore sorti**
+- Ban: **Pas encore sorti**
+- Mute: **Pas encore sorti**
+- Kick: **Pas encore sorti**
 
 ***© Volax.***
