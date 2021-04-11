@@ -1,0 +1,9 @@
+name: Heal
+version: 1.0
+main: fr.volax.heal.HealPlugin
+description: Heal Plugin
+author: Volax
+api-version: 1.13
+commands:
+  heal:
+    description: Commande de Heal
