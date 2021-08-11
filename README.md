@@ -3,7 +3,7 @@ Ce github est un regroupement du code de mes vidéos disponible à cette adresse
 
 - Gamemode: https://youtu.be/FG-M2AmXDY4
 - Vanish: https://youtu.be/ubiVaeNrN7E
-- Heal: **Mercredi 14 avril**
+- Heal: **Pas encore sorti**
 - God: **Pas encore sorti**
 - Furnace: **Pas encore sorti**
 - RandomTP: **Pas encore sorti**
